@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name ad8605)(type Legacy)(uri ${KIPRJMOD}/ad8605.lib)(options "")(descr ""))
+  (lib (name ndt3055l)(type Legacy)(uri ${KIPRJMOD}/ndt3055l.lib)(options "")(descr ""))
+)

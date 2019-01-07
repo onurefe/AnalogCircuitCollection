@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NDT3055L
+D N-Channel Logic Level Enhancement Mode Field Effect Transistor
+K N-Channel Enhancement Type MOSFET
+$ENDCMP
+#
+#End Doc Library
